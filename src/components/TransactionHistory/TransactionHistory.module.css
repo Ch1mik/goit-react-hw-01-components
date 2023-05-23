@@ -1,0 +1,11 @@
+.transactionHistory {
+  background-color: wheat;
+  border: 1px solid black;
+}
+.tableCategory {
+  font-size: 28px;
+}
+.transactionId {
+  border: 1px solid white;
+  font-size: 26px;
+}
